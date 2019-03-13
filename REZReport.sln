@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REZReport", "REZReport\REZReport.csproj", "{AD854602-A976-4A1B-A08C-A05C5A00D1F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REZReport.Core", "REZReport.Core\REZReport.Core.csproj", "{47FC4AA4-B0D7-4077-BAF5-6F3EC9139364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD854602-A976-4A1B-A08C-A05C5A00D1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD854602-A976-4A1B-A08C-A05C5A00D1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD854602-A976-4A1B-A08C-A05C5A00D1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD854602-A976-4A1B-A08C-A05C5A00D1F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FC4AA4-B0D7-4077-BAF5-6F3EC9139364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FC4AA4-B0D7-4077-BAF5-6F3EC9139364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FC4AA4-B0D7-4077-BAF5-6F3EC9139364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FC4AA4-B0D7-4077-BAF5-6F3EC9139364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B644E1B4-8FDF-4325-8A39-D076CD35BA47}
+	EndGlobalSection
+EndGlobal

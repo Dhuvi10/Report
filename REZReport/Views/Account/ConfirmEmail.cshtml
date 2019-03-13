@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "EmailConfirm";
+}
+
+<h2>Email Confirm</h2>
+
+@if (ViewBag.result.Status)
+{
+    <div>
+        <p>
+            Thank you for confirming your email.
+        </p>
+    </div>
+}
+else
+{
+    <div>
+        <p>
+            @ViewBag.result.Error
+        </p>
+    </div>
+}

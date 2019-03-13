@@ -1,0 +1,11 @@
+D:\2019\Sandeep\REZReport\REZReport.Core\bin\Debug\netcoreapp2.1\REZReport.Core.deps.json
+D:\2019\Sandeep\REZReport\REZReport.Core\bin\Debug\netcoreapp2.1\REZReport.Core.dll
+D:\2019\Sandeep\REZReport\REZReport.Core\bin\Debug\netcoreapp2.1\REZReport.Core.pdb
+D:\2019\Sandeep\REZReport\REZReport.Core\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\2019\Sandeep\REZReport\REZReport.Core\obj\Debug\netcoreapp2.1\REZReport.Core.csprojAssemblyReference.cache
+D:\2019\Sandeep\REZReport\REZReport.Core\obj\Debug\netcoreapp2.1\REZReport.Core.csproj.CoreCompileInputs.cache
+D:\2019\Sandeep\REZReport\REZReport.Core\obj\Debug\netcoreapp2.1\REZReport.Core.AssemblyInfoInputs.cache
+D:\2019\Sandeep\REZReport\REZReport.Core\obj\Debug\netcoreapp2.1\REZReport.Core.AssemblyInfo.cs
+D:\2019\Sandeep\REZReport\REZReport.Core\obj\Debug\netcoreapp2.1\REZReport.Core.csproj.CopyComplete
+D:\2019\Sandeep\REZReport\REZReport.Core\obj\Debug\netcoreapp2.1\REZReport.Core.dll
+D:\2019\Sandeep\REZReport\REZReport.Core\obj\Debug\netcoreapp2.1\REZReport.Core.pdb
